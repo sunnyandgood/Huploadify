@@ -91,6 +91,6 @@ jQuery文件上传插件，HTML5版uploadify，保持与uploadify一致的API。
 
 ### 使用截图：
 
-[使用截图](./使用截图.jpg)
+<div align="center"><img src="./使用截图.jpg/></div>
 
 
